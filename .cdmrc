@@ -1,2 +1,2 @@
-tabs: ['script.py']
+tabs: ['script.py','README.md']
 run-button: python3 $$file
